@@ -1,2 +1,2 @@
-# loja
-Loja
+# barba
+Pagina comercial para aprendizagem.
